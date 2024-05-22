@@ -11,7 +11,7 @@ so I decided to rework it a bit.
    <img src="https://sun9-west.userapi.com/sun9-63/s/v1/if2/tWTVIcRwPGi-FfprwSm3rFp8tREEzH-NRiEa0sNfhlpRCRv3q195tTd4ygIrYFYD8rARQT2BnYNx2X4KJ07puz6y.jpg?size=540x1080&quality=95&type=album" width="200"/>
 </div>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xGiR_NUwAE0/0.jpg)](https://www.youtube.com/watch?v=xGiR_NUwAE0)
+[(https://img.youtube.com/vi/xGiR_NUwAE0/0.jpg)](https://www.youtube.com/watch?v=xGiR_NUwAE0)
 
 p.s. The video was recorded by the built-in unity tool, 
 for some reason it changed the color very much, and also worsened the quality
