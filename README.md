@@ -1,9 +1,4 @@
 # IdleAction
-Small revision of the previous test task
-
-I was once given a test work before an interview 
-and I didn't do well because I was in a hurry, 
-so I decided to rework it a bit.
 
 <div>
    <img src="https://sun9-west.userapi.com/sun9-63/s/v1/if2/WuNb0b1ZlFgrsGnbUQndOWSitRKn9zuBsOU2R6xKl4nUIBPegZw2PRs32JmeIIzuxm7FbU9yVs8WUhBdDmsFSo-x.jpg?size=540x1080&quality=95&type=album" width="200"/>
