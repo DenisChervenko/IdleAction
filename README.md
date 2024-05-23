@@ -7,7 +7,7 @@
 </div>
 
 
-[(https://img.youtube.com/vi/xGiR_NUwAE0/0.jpg)](https://www.youtube.com/watch?v=xGiR_NUwAE0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xGiR_NUwAE0/0.jpg)](https://www.youtube.com/watch?v=xGiR_NUwAE0)
 
 
 p.s. The video was recorded by the built-in unity tool, 
